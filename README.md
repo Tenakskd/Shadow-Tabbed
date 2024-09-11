@@ -24,7 +24,7 @@ To use Shadow Proxy, follow these steps:
 
 1. Clone the repository:
    ```bash
-   git clone https://github.com/NCCoder3/Shadow-Tabbed/
+   git clone https://github.com/tenakskd/shadow-tabbed
 2. Go into that directory
    ```bash
    cd Shadow-Tabbed
